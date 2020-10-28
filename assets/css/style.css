@@ -12,18 +12,20 @@
 /* apply styles to <body> */
 body {
     background-color: #d9dcd6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
 }
 /* end styles to <body> */
 
 /* apply styles to <header> */
 header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
 header h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     display: inline;
     font-size: 48px;
 }
@@ -41,7 +43,6 @@ header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -51,10 +52,20 @@ header nav ul li {
 }
 /* end styles to <header> */
 
-p {
-    font-size: 16px;
+/* apply styles to <footer> */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
+footer h2 {
+    font-size: 20px;
+}
+/* end styles to <footer> */
+
+/* apply style to hero section */
 .hero {
     height: 800px;
     width: 100%;
@@ -63,6 +74,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* end style to hero section */
 
 .float-left {
     float: left;
@@ -191,15 +203,4 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
 }
