@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a website to help with web search optimication, online reputation, and social media marketing.
+This is a website to help with web search optimization, online reputation, and social media marketing.
 
 ### This is a demo website!
 
