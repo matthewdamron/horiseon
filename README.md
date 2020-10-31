@@ -20,4 +20,4 @@ Most of the code was provided from Trilogy Education Services.
 
 ## Deployment
 
-[Horiseon Website](https://morgareth.github.io/horiseon/)
+[Horiseon Website](https://matthewdamron.github.io/horiseon/)
