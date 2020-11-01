@@ -1,12 +1,18 @@
-# Horiseon Web Site
+# Horiseon website
 
 ## Description
 
-This is a website to help with web search optimization, online reputation, and social media marketing.
+Refactoring of existing website for more accessibility, HTML elements, flow, and CSS condensing.
 
-### This is a demo website!
+## What was changed
 
-## Demo Screenshot
+1. Re-organized semantic HTML elements.
+2. Re-organized the HTML to follow a logical structure and flow.
+3. Add alt attributes to the images for accessibility.
+4. Condensed the redundant CSS code.
+5. Add comments where applicable.
+
+## Screenshot
 
 ![Demo](assets/images/Horiseon-Demo.png)
 
